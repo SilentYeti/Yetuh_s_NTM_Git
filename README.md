@@ -1,5 +1,5 @@
 # <u>**SilentYeti's Nuclear Tech Mod**</u>
-![ecto.png](..%2F..%2F..%2FDownloads%2Fecto.png)
+
 Mod Created by ECTONOX Studios
 
 Code Developed by SilentYeti
