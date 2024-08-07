@@ -31,4 +31,4 @@ Download the repository, then open a shell prompt in that folder or the terminal
 
 Press enter.
 
-Now just wait for the build to finish and the new Jar file will be in `Yetuh_s_Ntm_GIT\build\libs`.
+Now just wait for the build to finish and the new Jar file will be in `Yetuh_s_Ntm_Git\build\libs`.
